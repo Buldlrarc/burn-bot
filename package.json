@@ -12,11 +12,3 @@
     "bs58": "^5.0.0"
   }
 }
-```
-
-Create `.gitignore`:
-```
-node_modules/
-.env
-.DS_Store
-*.log
